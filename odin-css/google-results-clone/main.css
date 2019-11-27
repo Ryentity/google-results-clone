@@ -26,6 +26,13 @@
   box-shadow: 0 0 5px lightgray;
 }
 
+#search-icon {
+  fill: #4285f4;
+  position: absolute;
+  top: 30px;
+  left: 740px;
+}
+
 img[src="googlelogo.png"] {
   padding-left: 11px;
   padding-top: 20px;
