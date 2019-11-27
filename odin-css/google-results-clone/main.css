@@ -1,0 +1,36 @@
+/*
+  ==========================
+  Top Search Section
+  ==========================
+*/
+#search-section {
+  float: left;
+  width: 100%;
+
+}
+
+#search-container, #search-form {
+  width: 65%;
+}
+
+#search-form {
+  margin-top: 12px;
+  margin-left: 30px;
+  padding: 15px;
+  border-radius: 50px;
+  border: 1px solid lightgray;
+}
+
+#search-form:hover {
+  border: none;
+  box-shadow: 0 0 5px lightgray;
+}
+
+img[src="googlelogo.png"] {
+  padding-left: 11px;
+  padding-top: 20px;
+}
+
+.float-left {
+  float: left;
+}
