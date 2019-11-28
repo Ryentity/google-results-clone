@@ -1,5 +1,18 @@
 /*
   ==========================
+  Fonts
+  ==========================
+*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+
+
+/*
+  ==========================
   Top Search Section
   ==========================
 */
@@ -29,7 +42,7 @@
 #search-icon {
   fill: #4285f4;
   position: absolute;
-  top: 30px;
+  top: 36px;
   left: 740px;
 }
 
@@ -40,4 +53,36 @@ img[src="googlelogo.png"] {
 
 .float-left {
   float: left;
+}
+
+#right-menu {
+  float: right;
+  width: 10%;
+}
+
+#apps-logo {
+  float: left;
+  width: 24px;
+  height: 24px;
+  margin-top: 25px;
+  margin-right: 20px;
+  fill: #666;
+}
+
+#sign-in {
+  float: left;
+  background-color: #4285f4;
+  height: 36px;
+  width: 96px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+
+#sign-in-text {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: .9em;
 }
