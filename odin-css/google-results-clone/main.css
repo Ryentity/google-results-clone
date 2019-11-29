@@ -71,73 +71,57 @@ table {
   Top Search Section
   ==========================
 */
-#search-section {
-  float: left;
-  width: 100%;
 
-}
+/*
+	================================
+	Left side top nav bar styling
+	================================
+*/
+#google-search-container{
 
-#search-container, #search-form {
-  width: 65%;
 }
 
 #search-form {
-  margin-top: 12px;
-  margin-left: 30px;
-  padding: 15px;
   border-radius: 50px;
   border: 1px solid lightgray;
 }
 
 #search-form:hover {
-  border: none;
-  box-shadow: 0 0 5px lightgray;
+
 }
 
 #search-icon {
   fill: #4285f4;
-  position: absolute;
-  top: 36px;
-  left: 740px;
+
 }
 
 img[src="googlelogo.png"] {
-  padding-left: 11px;
-  padding-top: 20px;
+
 }
 
-.float-left {
-  float: left;
-}
+/*
+	=================================
+	Right side top nav bar styling
+	=================================
+*/
+
 
 #right-menu {
-  float: right;
-  width: 10%;
+
+
 }
 
 #apps-logo {
-  float: left;
   width: 24px;
   height: 24px;
-  margin-top: 25px;
-  margin-right: 20px;
+
   fill: #666;
 }
 
 #sign-in {
-  float: left;
-  background-color: #4285f4;
-  height: 36px;
-  width: 96px;
-  border-radius: 5px;
-  color: white;
-  text-align: center;
-  vertical-align: middle;
-  margin-top: 20px;
+
 }
 
 #sign-in-text {
-  display: inline-block;
-  margin-top: 8px;
-  font-size: .9em;
+
 }
