@@ -78,7 +78,7 @@ table {
 	================================
 */
 #top-nav-container{
-
+	width: 100%;
 }
 
 #left-top-nav-container {
@@ -86,6 +86,7 @@ table {
 	border: 1px solid red;
 	height: 44px;
 	width: 1000px;
+	float: left;
 }
 
 #search-input {
@@ -128,9 +129,9 @@ img[src="googlelogo.png"] {
 
 #right-top-nav-container{
 	float: right;
-	width: 500px;
+	width: 300px;
 	height: 44px;
-
+	border: 1px solid pink;
 }
 
 #apps-logo {
@@ -139,10 +140,12 @@ img[src="googlelogo.png"] {
 
   fill: #666;
 	float: right;
+	border: 1px solid purple;
 }
 
 #sign-in {
 	float: right;
+	border: 1px solid yellow;
 }
 
 #sign-in-text {
