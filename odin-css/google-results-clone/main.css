@@ -130,7 +130,7 @@ img[src="googlelogo.png"] {
 #right-top-nav-container{
 	float: right;
 	width: 300px;
-	height: 44px;
+	height: 64px;
 	border: 1px solid pink;
 }
 
@@ -150,4 +150,14 @@ img[src="googlelogo.png"] {
 
 #sign-in-text {
 
+}
+
+/*
+	============================
+	Google Bottom Nav
+	============================
+*/
+
+.clear {
+	clear: both;
 }
