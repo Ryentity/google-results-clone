@@ -161,3 +161,8 @@ img[src="googlelogo.png"] {
 .clear {
 	clear: both;
 }
+
+#google-news-icon {
+	width: 16px;
+	height: 16px;
+}
