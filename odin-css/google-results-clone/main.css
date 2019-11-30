@@ -77,14 +77,33 @@ table {
 	Left side top nav bar styling
 	================================
 */
-#google-search-container{
+#top-nav-container{
 
 }
 
-#search-form {
+#left-top-nav-container {
+	padding: 10px;
+	border: 1px solid red;
+	height: 44px;
+	width: 1000px;
+}
+
+#search-input {
   border-radius: 50px;
-  border: 1px solid lightgray;
+  border: 1px solid green;
+	height: 44px;
+	float: left;
 }
+
+#google-logo {
+	padding: 10px 10px 0 10px;
+	float: left;
+}
+
+#search-submit {
+	float: left;
+}
+
 
 #search-form:hover {
 
@@ -92,7 +111,8 @@ table {
 
 #search-icon {
   fill: #4285f4;
-
+	width: 24px;
+	height: 24px;
 }
 
 img[src="googlelogo.png"] {
@@ -106,8 +126,10 @@ img[src="googlelogo.png"] {
 */
 
 
-#right-menu {
-
+#right-top-nav-container{
+	float: right;
+	width: 500px;
+	height: 44px;
 
 }
 
@@ -116,10 +138,11 @@ img[src="googlelogo.png"] {
   height: 24px;
 
   fill: #666;
+	float: right;
 }
 
 #sign-in {
-
+	float: right;
 }
 
 #sign-in-text {
