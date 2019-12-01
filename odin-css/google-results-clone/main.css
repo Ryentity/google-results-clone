@@ -79,6 +79,7 @@ table {
 */
 #top-nav-container{
 	width: 100%;
+	float: left;
 }
 
 #left-top-nav-container {
@@ -134,6 +135,7 @@ img[src="googlelogo.png"] {
 	border: 1px solid pink;
 }
 
+
 #apps-logo {
   width: 24px;
   height: 24px;
@@ -162,8 +164,19 @@ img[src="googlelogo.png"] {
 	clear: both;
 }
 
-.nav-icons {
+.nav-icon {
 	width: 16px;
 	height: 16px;
-	padding: 15px;
+}
+
+#left-nav-list {
+	float: left;
+}
+
+#nav-icon {
+	float: left;
+}
+
+#right-nav-list {
+	float: right;
 }
