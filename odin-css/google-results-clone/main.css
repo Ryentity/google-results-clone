@@ -193,8 +193,13 @@ img[src="googlelogo.png"] {
 }
 
 #right-nav-list {
-	float: right;
+	float: left;
+	width: 300px;
 	border: 1px solid green;
+}
+
+.right-nav-item {
+	float: left;
 }
 
 #bottom-nav-bar {
