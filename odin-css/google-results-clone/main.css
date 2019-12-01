@@ -167,16 +167,19 @@ img[src="googlelogo.png"] {
 .nav-icon {
 	width: 16px;
 	height: 16px;
+	float: left;
+}
+
+.list-item {
+	float: left;
 }
 
 #left-nav-list {
 	float: left;
-}
-
-#nav-icon {
-	float: left;
+	border: 1px solid black;
 }
 
 #right-nav-list {
 	float: right;
+	border: 1px solid green;
 }
