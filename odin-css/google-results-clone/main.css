@@ -104,6 +104,8 @@ table {
 
 #search-submit {
 	float: left;
+	fill: #4285f4;
+	margin-top: 10px;
 }
 
 
@@ -172,14 +174,30 @@ img[src="googlelogo.png"] {
 
 .list-item {
 	float: left;
+	font-size: 20px;
+}
+
+.nav-text {
+	padding: 15px;
+	padding-left: 5px;
+}
+
+.list-item:hover {
+	fill: blue;
+	color: blue;
+	text-decoration: underline;
 }
 
 #left-nav-list {
 	float: left;
-	border: 1px solid black;
 }
 
 #right-nav-list {
 	float: right;
 	border: 1px solid green;
+}
+
+#bottom-nav-bar {
+	border-bottom: 1px solid gray;
+	height: 58px;
 }
