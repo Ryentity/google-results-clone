@@ -218,7 +218,6 @@ img[src="googlelogo.png"] {
 	Google search results
 	================================
 */
-
 .standard-l-offset {
 	margin-left: 12%;
 }
@@ -226,6 +225,7 @@ img[src="googlelogo.png"] {
 #search-results {
 	width: 50%;
 	float: left;
+	font-family: 'Noto Sans', sans-serif;
 }
 
 .search-result {
