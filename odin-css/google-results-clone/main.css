@@ -219,14 +219,13 @@ img[src="googlelogo.png"] {
 	================================
 */
 
-#search-time-elapsed {
+.standard-l-offset {
 	margin-left: 12%;
 }
 
 #search-results {
 	width: 50%;
 	float: left;
-	margin-left: 12%;
 }
 
 .search-result {
