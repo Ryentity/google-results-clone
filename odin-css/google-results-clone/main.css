@@ -212,3 +212,25 @@ img[src="googlelogo.png"] {
 	border-bottom: 1px solid gray;
 	height: 58px;
 }
+
+/*
+	================================
+	Google search results
+	================================
+*/
+
+#search-time-elapsed {
+	margin-left: 12%;
+}
+
+#search-results {
+	width: 50%;
+	float: left;
+	margin-left: 12%;
+}
+
+.search-result {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right
+}
