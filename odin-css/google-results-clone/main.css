@@ -93,6 +93,7 @@ table {
 	float: left;
 }
 
+
 #search-input {
   border-radius: 50px;
   border: 1px solid lightgray;
@@ -101,6 +102,7 @@ table {
 	margin-left: 25px;
 	margin-top: 10px;
 	width: 620px;
+
 }
 
 
@@ -177,6 +179,11 @@ img[src="googlelogo.png"] {
 	margin-left: 23px;
 	margin-top: -5px;
 
+
+}
+
+#sign-in-text:hover {
+	color: pink;
 }
 
 /*
