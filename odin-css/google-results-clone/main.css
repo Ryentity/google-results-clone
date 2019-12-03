@@ -231,5 +231,27 @@ img[src="googlelogo.png"] {
 .search-result {
 	margin-top: 15px;
 	margin-bottom: 15px;
-	margin-right
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.search-title {
+	font-size: 20px;
+	text-decoration: none;
+	letter-spacing: -.75px;
+}
+
+
+.search-url {
+	display: table;
+	color: #006b23;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.search-description {
+	letter-spacing: 1px;
 }
