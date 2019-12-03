@@ -219,18 +219,18 @@ img[src="googlelogo.png"] {
 	================================
 */
 .standard-l-offset {
-	margin-left: 12%;
+	margin-left: 11.5%;
 }
 
 #search-results {
-	width: 50%;
+	width: 42%;
 	float: left;
 	font-family: 'Noto Sans', sans-serif;
 }
 
 .search-result {
 	margin-top: 15px;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
 
 }
 
@@ -241,17 +241,20 @@ a {
 .search-title {
 	font-size: 20px;
 	text-decoration: none;
-	letter-spacing: -.75px;
+	letter-spacing: -.5px;
 }
 
 
 .search-url {
 	display: table;
+	letter-spacing: -0.5px;
 	color: #006b23;
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
 
 .search-description {
-	letter-spacing: 1px;
+	letter-spacing: -.75px;
+	line-height: 20px;
+	color: #585858;
 }
