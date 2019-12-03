@@ -218,6 +218,13 @@ img[src="googlelogo.png"] {
 	Google search results
 	================================
 */
+#search-time-elapsed {
+	font-family: 'Noto Sans', sans-serif;
+	color: #585858;
+	font-size: 13.5px;
+	padding-top: 10px;
+}
+
 .standard-l-offset {
 	margin-left: 11.5%;
 }
@@ -229,8 +236,8 @@ img[src="googlelogo.png"] {
 }
 
 .search-result {
-	margin-top: 15px;
-	margin-bottom: 20px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 
 }
 
@@ -249,8 +256,8 @@ a {
 	display: table;
 	letter-spacing: -0.5px;
 	color: #006b23;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
 }
 
 .search-description {
