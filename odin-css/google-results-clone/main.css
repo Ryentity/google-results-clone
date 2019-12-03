@@ -165,6 +165,13 @@ img[src="googlelogo.png"] {
 	height: 16px;
 	float: left;
 	fill: #585858;
+
+	padding-right: 5px;
+	margin-top: 3px;
+}
+
+#all span.nav-text {
+	color: rgb(27, 101, 235);
 }
 
 .list-item {
