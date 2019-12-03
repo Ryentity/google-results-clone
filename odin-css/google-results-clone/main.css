@@ -187,11 +187,14 @@ img[src="googlelogo.png"] {
 	font-size: 13px;
 }
 
-.list-item:hover {
+.list-item:hover .nav-icon{
 	fill: blue;
-	color: blue;
-	text-decoration: underline;
 }
+
+.list-item:hover .nav-text {
+	color: blue;
+}
+
 
 #left-nav-list {
 	float: left;
