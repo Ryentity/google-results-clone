@@ -99,10 +99,16 @@ table {
   border: 1px solid lightgray;
 	height: 44px;
 	float: left;
+
 	margin-left: 25px;
+	padding-left: 20px;
 	margin-top: 10px;
 	width: 620px;
 
+}
+
+#search-input::placeholder {
+	color: #212121;
 }
 
 
