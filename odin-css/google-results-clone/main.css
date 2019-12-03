@@ -139,6 +139,11 @@ img[src="googlelogo.png"] {
 
 }
 
+#tools {
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
 
 #apps-logo {
   width: 24px;
@@ -226,14 +231,15 @@ img[src="googlelogo.png"] {
 
 #right-nav-list {
 	float: left;
-	width: 300px;
+	width: 170px;
 }
 
 .right-nav-item {
-	float: left;
+	float: right;
 }
 
 #bottom-nav-bar {
+	margin-top: 5px;
 	border-bottom: 1px solid rgb(235, 235, 235);
 	height: 40px;
 }
