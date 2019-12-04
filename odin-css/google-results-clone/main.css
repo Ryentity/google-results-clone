@@ -296,6 +296,18 @@ img[src="googlelogo.png"] {
 	border-radius: 3px;
 }
 
+.down-arrow {
+	float: right;
+	width: 0;
+	height: 0;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #006b23;
+	border-left: 5px solid transparent;
+
+	margin-top: 6px;
+	margin-left: 5px;
+}
+
 a {
 	text-decoration: none;
 }
