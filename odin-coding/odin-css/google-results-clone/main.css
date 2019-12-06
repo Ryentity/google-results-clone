@@ -277,10 +277,12 @@ img[src="googlelogo.png"] {
 	width: 620px;
 	float: left;
 	font-family: 'Noto Sans', sans-serif;
+	font-size: 15px;
+	letter-spacing: -.5px;
 }
 
 .search-result {
-	margin-top: 20px;
+	margin-top: 26px;
 	margin-bottom: 20px;
 }
 
@@ -315,20 +317,20 @@ a {
 .search-title {
 	font-size: 20px;
 	text-decoration: none;
-	letter-spacing: -.5px;
+
 }
 
 
 .search-url {
 	display: table;
-	letter-spacing: -0.5px;
+
 	color: #006b23;
 	padding-top: 7px;
 	padding-bottom: 7px;
 }
 
 .search-description {
-	letter-spacing: -.75px;
+
 	line-height: 20px;
 	color: #585858;
 }
@@ -340,9 +342,13 @@ a {
 */
 
 #people-also-ask {
-	width: 680px;
+	width: 640px;
 	border: 1px solid rgb(235, 235, 235);
-	border-radius: 15px;
+	border-radius: 10px;
+	margin-left: -23px;
+	color: rgb(34, 34, 34);
+	font-weight: 500;
+	font-size: 16px;
 }
 
 #people-also-ask h2, #people-also-ask ul li {
