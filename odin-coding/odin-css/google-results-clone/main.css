@@ -367,3 +367,16 @@ a {
 #people-also-ask ul li[id="last"] {
 	border-bottom: none;
 }
+
+/*
+	===========================
+	People also ask links
+	===========================
+*/
+#r-s-left {
+	float: left;
+}
+
+#r-s-right {
+	float: right;
+}
