@@ -403,3 +403,34 @@ a {
 #r-s-right {
 	float: right;
 }
+
+/*
+	=============================
+	Footer elements
+	=============================
+*/
+footer {
+	background-color: rgb(242, 242, 242);
+	float: left;
+	width: 100%;
+}
+
+#top-footer, #bottom-footer  {
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#top-footer {
+	border-top: 1px solid rgb(228, 228, 228);
+	border-bottom: 1px solid rgb(228, 228, 228);
+}
+
+#bottom-footer {
+
+}
+
+
+footer div ul li {
+	float: left;
+}
