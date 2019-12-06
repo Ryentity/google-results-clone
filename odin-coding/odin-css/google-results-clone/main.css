@@ -373,6 +373,29 @@ a {
 	People also ask links
 	===========================
 */
+#related-searches {
+	font-weight: 500;
+}
+
+#related-searches h2{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	color: rgb(34, 34, 34);
+}
+
+.r-s-links li{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgb(54, 0 173);
+}
+
+.r-s-links li:hover {
+	text-decoration: underline;
+}
+
 #r-s-left {
 	float: left;
 }
