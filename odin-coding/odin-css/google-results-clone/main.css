@@ -417,8 +417,9 @@ footer {
 
 #top-footer, #bottom-footer  {
 	float: left;
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	color: rgb(111, 111, 111);
 }
 
 #top-footer {
