@@ -413,6 +413,7 @@ footer {
 	background-color: rgb(242, 242, 242);
 	float: left;
 	width: 100%;
+	font-family: 'Nato sans', sans-serif;
 }
 
 #top-footer, #bottom-footer  {
@@ -420,6 +421,7 @@ footer {
 	padding-top: 13px;
 	padding-bottom: 13px;
 	color: rgb(111, 111, 111);
+	margin-left: 170px;
 }
 
 #top-footer {
